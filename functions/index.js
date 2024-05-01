@@ -1,5 +1,5 @@
-const doh = 'https://1.1.1.1/dns-query'
-const dohjson = 'https://1.1.1.1/dns-query'
+const doh = 'https://cloudflare-dns.com/dns-query'
+const dohjson = 'https://cloudflare-dns.com/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 

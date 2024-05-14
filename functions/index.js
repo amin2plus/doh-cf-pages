@@ -1,5 +1,5 @@
-const doh = 'https://freedns.controld.com/p2'
-const dohjson = 'https://freedns.controld.com/p2'
+const doh = 'https://extended.dns.mullvad.net/dns-query'
+const dohjson = 'https://extended.dns.mullvad.net/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 

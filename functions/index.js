@@ -1,5 +1,5 @@
-const doh = 'https://blitz.ahadns.com/1:6.7.8.10.11.17.18.20.21.22.23.25.26'
-const dohjson = 'https://blitz.ahadns.com/1:6.7.8.10.11.17.18.20.21.22.23.25.26'
+const doh = 'https://dns.adguard-dns.com/dns-query'
+const dohjson = 'https://dns.adguard-dns.com/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
